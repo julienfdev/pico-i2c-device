@@ -4,9 +4,8 @@ The Pico I2C Device Library provides a straightforward interface for communicati
 
 ## Features
 
-	•	Initialize I2C communication with configurable baud rate and GPIO pins.
-	•	Perform read and write operations to interact with I2C devices.
-	•	Supports flexible buffer sizes for I2C transactions.
+- Initialize I2C communication with configurable baud rate, interface and GPIO pins.
+- Perform read and write operations to interact with I2C devices.
 
 ## Installation
 
